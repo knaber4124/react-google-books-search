@@ -6,7 +6,7 @@ function NavBar() {
         <div>
             <nav>
                 <div className="nav-wrapper green lighten-3">
-                    <ul id="nav-mobile" class="left hide-on-med-and-down ">
+                    <ul id="nav-mobile" className="left hide-on-med-and-down ">
                         <li><a href="/">Search</a></li>
                         <li><a href="/saved">Saved</a></li>
                     </ul>
